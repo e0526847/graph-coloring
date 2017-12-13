@@ -1,7 +1,6 @@
 # implementation based on the paper "Ant Colony System for Graph Coloring Problem", IJESC 2017, Volume 7 Issue No.7
 # http://ijesc.org/upload/c6c0941d337a1b5b634062a54bb33d5c.Ant%20Colony%20System%20for%20Graph%20Coloring%20Problem.pdf
-# author: brygida czech, TU Wien
-# MIT License, Copyright (c) 2017 Brygida Czech
+# author: brygida czech
 import networkx as nx
 import random
 import numpy as np
